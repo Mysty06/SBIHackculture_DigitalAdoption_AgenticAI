@@ -296,47 +296,91 @@ Sample Journey:
 ```
 
 ---
-
 # 🛠️ Technology Stack
 
-## Frontend
-
-- Flutter
+## 🎨 UI/UX Design
+- Figma
 - Material Design 3
+- Wireframing
+- Prototyping
 
-## Backend
+## 📱 Frontend
+- Flutter
+- Dart
+- Riverpod / Provider
 
-- Python FastAPI
+## ⚙️ Backend
+- Python
+- FastAPI
 - REST APIs
+- WebSockets
 
-## Database
+## 🤖 Agentic AI
+- LangGraph
+- LangChain
+- Multi-Agent Architecture
+- AI Workflow Engine
 
+## 🧠 Large Language Model (LLM)
+- OpenAI GPT
+- Llama
+- Prompt Engineering
+- Function Calling
+
+## 🔍 AI Knowledge Layer
+- RAG (Retrieval-Augmented Generation)
+- Vector Database (ChromaDB / FAISS / Pinecone)
+- Embedding Models
+
+## 🗄️ Database
 - PostgreSQL
 - Redis
+- Firebase
 
-## Artificial Intelligence
+## 📊 Analytics
+- User Behavior Analytics
+- Recommendation Analytics
+- Adoption Analytics
 
-### Agentic AI Layer
+## 📈 Data Visualization
+- Chart.js
+- FL Chart
 
-- User Profiling
-- Goal Planning
-- Mission Generation
-- Recommendation Engine
+## 🔔 Notifications
+- Firebase Cloud Messaging (FCM)
+- Push Notifications
 
-### LLM Integration
+## 🔐 Authentication & Security
+- JWT
+- OAuth 2.0
+- HTTPS
+- RBAC
 
-- GPT / Llama
-- Conversational AI
-- Financial Education
+## ☁️ Cloud & Deployment
+- Docker
+- GitHub Actions
+- AWS / Azure / Google Cloud
 
-## Analytics
+## 🧩 API Integration
+- SBI APIs
+- UPI APIs
+- Payment Gateway APIs
 
-- User Engagement Tracking
-- Adoption Metrics
-- Recommendation Performance
-- Gamification Insights
+## 🛠️ Development Tools
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- Postman
+- Swagger/OpenAPI
+- UV (Python Package Manager)
 
----
+## 🧪 Testing
+- Pytest
+- Flutter Test
+- Postman
+- Unit Testing
+- Integration Testing
 
 # 📈 Business Impact
 
