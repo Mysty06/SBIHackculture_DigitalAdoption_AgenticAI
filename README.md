@@ -1,4 +1,7 @@
 # SBIHackculture_DigitalAdoption_AgenticAI
+
+**"Learn. Save. Grow. Let YONO Sensei guide your financial journey."**
+
 # 🎓 YONO Sensei
 ### An Agentic AI-Powered Financial Mentor for Personalized Banking & Digital Adoption
 
