@@ -451,6 +451,4 @@ Sample Journey:
 
 ---
 
-## Tagline
 
-**"Learn. Save. Grow. Let YONO Sensei guide your financial journey."**
